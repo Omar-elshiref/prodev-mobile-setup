@@ -24,8 +24,9 @@ Document what happens when you reset the project
 
 1. I placed the command npm run reset-project in the terminal
 2. appeared a question Do you want to move existing files to /app-example instead of deleting them? (Y/n)
-3. I answered no because I do not want to transfer the files again, I want to delete them permanently
-4. did these things 
+3. when answering yes, it moves them to the exsmble app folder and deletes unnecessary files.
+4. I answered no because I do not want to transfer the files again, I want to delete them permanently
+5. did these things 
     1. ❌ /app deleted.
     2. ❌ /components deleted.
     3. ❌ /hooks deleted.
