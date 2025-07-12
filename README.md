@@ -20,3 +20,22 @@ iOS: Install from the Apple App Store.
 
 Set up your first mobile application using the Expo Router template. Document the scaffolding process and understand the file structure of a React Native application using Expo.
 
+Document what happens when you reset the project
+
+1. I placed the command npm run reset-project in the terminal
+2. appeared a question Do you want to move existing files to /app-example instead of deleting them? (Y/n)
+3. I answered no because I do not want to transfer the files again, I want to delete them permanently
+4. did these things 
+    1. ❌ /app deleted.
+    2. ❌ /components deleted.
+    3. ❌ /hooks deleted.
+    4. ❌ /constants deleted.
+    5. ❌ /scripts deleted.
+
+    6. 📁 New /app directory created.
+    7. 📄 app/index.tsx created.
+    8. 📄 app/_layout.tsx created.
+
+deleted many unused files and also removed all items from the main page.
+
+
